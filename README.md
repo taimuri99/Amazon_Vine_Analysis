@@ -69,6 +69,8 @@ Looking at this result we see that 42% of the Vine reviews were 5 star reviews w
 
 An additional analysis of the other datasets may show different information and yield different results. Therefore after performing a similar analysis for each data set one can see then on average if Vine reviews yield evidence for positivity bias.
 
+An additional analysis for this dataset can be to plot the mean, median and mode to see where the average review lies for Vine and Non Vine for this dataset.
+
 
 
 
